@@ -81,25 +81,26 @@
 ![Untitled](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/54762273/60105673-5636-43eb-b6b4-b0c3dc4b3420)
 
 
-## 🖱️ 데모 영상 (click)
+## 🖱️ 데모 영상 ([click](https://youtu.be/Q1H4qMkPsiQ?feature=shared))
+
 [![CaArt](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/62997391/9aaca621-025b-419f-a783-503293f16a72)](https://youtu.be/Q1H4qMkPsiQ)
-
-
 
 ## 🏢 프로젝트 구조
 
 ### 시스템 아키텍처
-![image](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/62997391/aee7c8b6-ffe6-4e7b-a2c8-00dfa6d14189)
+![image](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/71026706/2d7d3cfa-2374-48d1-ab2a-14fa7ecf852c)
 
 ### ERD
-tmp
+
+![CaArt ERD](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/71026706/fd94c6c0-5269-4b25-832d-8444d645bdd4)
 
 
 ## 🛠 지식 공유
 > 주말에 직무별로 테크 포스트를 작성해요   
 > 매주 월요일 _12:30 ~ 13:30_ 에 미니 세미나를 해요  
 > 세미나에서 서로의 직무를 이해하는 시간을 가져요
-#### 💪🏼 [BE
+
+#### 💪🏼 [BE]
 * [[최규현] Sentry 도입기 (feat. 로그 관리)](https://dmansp.tistory.com/74)
 * [[최규현] GPT3.5 모델을 활용해서 추천 문구 요약하기](https://flying-guitar-2a3.notion.site/OpenAI-GPT-d87c5e2a73e648698eb489623f1d514d?pvs=4)
 * [[최규현] 스프링에서 OpenAI API 성능 개선기](https://flying-guitar-2a3.notion.site/OpenAI-API-e4d2536e85ba411e82f5cdb89bd55e13?pvs=4)
