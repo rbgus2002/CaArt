@@ -30,6 +30,7 @@
 > * [그라운드 룰 ⛳️](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/그라운드-룰-⛳️)
 > * [컨벤션 📐](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98-%F0%9F%93%90)
 > * [코드 컨벤션 🚜](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
+> * [AOS 컴포넌트 논의🎨](https://www.figma.com/file/0DJx5P6bfUIttXCxogWl28/Untitled?type=design&node-id=0%3A1&mode=design&t=YUVNbGXvpuSXjWpf-1)
 
 > **프로젝트 기간**  
 > 2023.07.31~2023.08.30
@@ -76,6 +77,8 @@
 <img src="https://img.shields.io/badge/navigation-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/custum view-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
 </div>
+
+![Untitled](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/54762273/60105673-5636-43eb-b6b4-b0c3dc4b3420)
 
 
 ## 🖱️ 데모 영상 (click)
