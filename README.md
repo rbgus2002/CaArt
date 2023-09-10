@@ -1,5 +1,6 @@
 # 🎨 H6-CaArt
-![ca_art_logo](https://github.com/rbgus2002/CaArt/assets/62997391/d329c2a1-106a-45b4-9d8e-6c7bd5d5f4aa)
+<img width="329" alt="image" src="https://github.com/rbgus2002/CaArt/assets/62997391/9d8da490-df72-4994-a8b8-5b4e112f673d">
+
 > 현대자동차 소프티어 부트캠프 2기
 > H6-CaArt입니다 🙂  
 > 질문과 피드백은 언제나 환영입니다 🙃  
