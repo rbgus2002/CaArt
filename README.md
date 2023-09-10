@@ -1,9 +1,9 @@
 # 🎨 H6-CaArt
-![ca_art_logo](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/62997391/d329c2a1-106a-45b4-9d8e-6c7bd5d5f4aa)
+![ca_art_logo](https://github.com/rbgus2002/CaArt/assets/62997391/d329c2a1-106a-45b4-9d8e-6c7bd5d5f4aa)
 > 현대자동차 소프티어 부트캠프 2기
 > H6-CaArt입니다 🙂  
 > 질문과 피드백은 언제나 환영입니다 🙃  
-> ### 🗓 [WIKI](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki)
+> ### 🗓 [WIKI](https://github.com/rbgus2002/CaArt/wiki)
 <br>
 
 ## 👬 팀 이름
@@ -22,14 +22,14 @@
 > 기존의 [현대닷컴 '내 차 만들기'](https://www.hyundai.com/kr/ko/e/vehicles/estimation)를 더 쉽게, 사용성 개선하기 
 
 > **FLOW CHART**
-> <img width="1315" alt="image" src="https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/62997391/d8f35d76-e1d5-4c75-87b7-e9066a3a9d28">
+> <img width="1506" alt="image" src="https://github.com/rbgus2002/CaArt/assets/62997391/242de085-ee9e-4c9e-b62a-74c956833133">
 
 > **참고 자료**  
 > * [디자인 🎨](https://www.figma.com/file/p1UkFMMha9P4UvMSgxjjUJ/Handoff_guidelines?type=design&node-id=1-6&mode=design&t=IOPBQbQ365pyFnNW-0)
 > * [기획 📜](https://www.figma.com/file/p1UkFMMha9P4UvMSgxjjUJ/Handoff_guidelines?type=design&node-id=8-17111&mode=design&t=sR1iRC07dqwRgOQX-0)
-> * [그라운드 룰 ⛳️](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/그라운드-룰-⛳️)
-> * [컨벤션 📐](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98-%F0%9F%93%90)
-> * [코드 컨벤션 🚜](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
+> * [그라운드 룰 ⛳️](https://github.com/rbgus2002/CaArt/wiki/그라운드-룰-⛳️)
+> * [컨벤션 📐](https://github.com/rbgus2002/CaArt/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98-%F0%9F%93%90)
+> * [코드 컨벤션 🚜](https://github.com/rbgus2002/CaArt/wiki/%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
 > * [AOS 컴포넌트 논의🎨](https://www.figma.com/file/0DJx5P6bfUIttXCxogWl28/Untitled?type=design&node-id=0%3A1&mode=design&t=YUVNbGXvpuSXjWpf-1)
 
 > **프로젝트 기간**  
@@ -78,21 +78,21 @@
 <img src="https://img.shields.io/badge/custum view-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
 </div>
 
-![Untitled](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/54762273/60105673-5636-43eb-b6b4-b0c3dc4b3420)
+![Untitled](https://github.com/rbgus2002/CaArt/assets/54762273/60105673-5636-43eb-b6b4-b0c3dc4b3420)
 
 
 ## 🖱️ 데모 영상 ([click](https://youtu.be/Q1H4qMkPsiQ?feature=shared))
 
-[![CaArt](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/62997391/9aaca621-025b-419f-a783-503293f16a72)](https://youtu.be/Q1H4qMkPsiQ)
+[![CaArt](https://github.com/rbgus2002/CaArt/assets/62997391/9aaca621-025b-419f-a783-503293f16a72)](https://youtu.be/Q1H4qMkPsiQ)
 
 ## 🏢 프로젝트 구조
 
 ### 시스템 아키텍처
-![image](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/71026706/2d7d3cfa-2374-48d1-ab2a-14fa7ecf852c)
+![image](https://github.com/rbgus2002/CaArt/assets/71026706/2d7d3cfa-2374-48d1-ab2a-14fa7ecf852c)
 
 ### ERD
 
-![CaArt ERD](https://github.com/softeerbootcamp-2nd/H6-CaArt/assets/71026706/fd94c6c0-5269-4b25-832d-8444d645bdd4)
+![CaArt ERD](https://github.com/rbgus2002/CaArt/assets/71026706/fd94c6c0-5269-4b25-832d-8444d645bdd4)
 
 
 ## 🛠 지식 공유
@@ -111,14 +111,14 @@
 * [[이승현] useReducer, useContext를 사용한 전역 상태 관리 with React, TS](https://seunghyunfe.tistory.com/4)
 * [[이승현] 프로토타입 패턴이란?](https://seunghyunfe.tistory.com/3)
 * [[이승현] UX 개선을 위한 이미지 프리로딩 With Promise](https://seunghyunfe.tistory.com/5)
-* [[엄석훈] 타입스크립트 제네릭이란?](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/2week_FE_tech_post_1)
+* [[엄석훈] 타입스크립트 제네릭이란?](https://github.com/rbgus2002/CaArt/wiki/2week_FE_tech_post_1)
 
 #### 🛸 [AOS]
-* [[박세영] Android의 Data Binding: DataBindingUtil vs Binding.inflate](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/1week_AOS_tech_post_1)
-* [[박세영] DI, Hilt 뽀개기](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/2week_AOS_tech_post_3)
-* [[박세영] Retrofit 도입기](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/3week_AOS_tech_post_4)
-* [[박세영] 360도 Spin Image Touble Shooting](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/4week_AOS_tech_post_5)
-* [[김유빈] 커스텀 다이얼로그 구현](https://github.com/softeerbootcamp-2nd/H6-CaArt/wiki/1week_AOS_tech_post_2)
+* [[박세영] Android의 Data Binding: DataBindingUtil vs Binding.inflate](https://github.com/rbgus2002/CaArt/wiki/1week_AOS_tech_post_1)
+* [[박세영] DI, Hilt 뽀개기](https://github.com/rbgus2002/CaArt/wiki/2week_AOS_tech_post_3)
+* [[박세영] Retrofit 도입기](https://github.com/rbgus2002/CaArt/wiki/3week_AOS_tech_post_4)
+* [[박세영] 360도 Spin Image Touble Shooting](https://github.com/rbgus2002/CaArt/wiki/4week_AOS_tech_post_5)
+* [[김유빈] 커스텀 다이얼로그 구현](https://github.com/rbgus2002/CaArt/wiki/1week_AOS_tech_post_2)
 
 <br>
 
