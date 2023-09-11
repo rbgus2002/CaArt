@@ -84,16 +84,19 @@
 
 ## 🖱️ 데모 영상 ([click](https://youtu.be/Q1H4qMkPsiQ?feature=shared))
 
-[![CaArt](https://github.com/rbgus2002/CaArt/assets/62997391/9aaca621-025b-419f-a783-503293f16a72)](https://youtu.be/Q1H4qMkPsiQ)
+<img width="812" alt="image" src="https://github.com/rbgus2002/CaArt/assets/62997391/afd15105-25bb-4671-8556-2d2175a4f4f9">
+
 
 ## 🏢 프로젝트 구조
 
 ### 시스템 아키텍처
-![image](https://github.com/rbgus2002/CaArt/assets/71026706/2d7d3cfa-2374-48d1-ab2a-14fa7ecf852c)
+<img width="1008" alt="image" src="https://github.com/rbgus2002/CaArt/assets/62997391/86b235a4-1f7b-423f-a7aa-667d48d1f3bc">
+
 
 ### ERD
 
-![CaArt ERD](https://github.com/rbgus2002/CaArt/assets/71026706/fd94c6c0-5269-4b25-832d-8444d645bdd4)
+<img width="1322" alt="image" src="https://github.com/rbgus2002/CaArt/assets/62997391/b0618660-d851-48a8-8aeb-f2cf29ab263f">
+
 
 
 ## 🛠 지식 공유
